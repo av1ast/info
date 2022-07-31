@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Полезная информация для игроков
 
 You can use the [editor on GitHub](https://github.com/av1ast/info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
